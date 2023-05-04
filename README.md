@@ -1,7 +1,9 @@
 # bottom_navigation_example
-メンティーさんように作成したボトムナビゲーションバーのサンプルコード
+メンティーさん用に作成したボトムナビゲーションバーのサンプルコード
 公式ドキュメントを参考に、ファイルを分けてボタンをタップすると、
 画面が切り替わり違うページが表示されるロジックを作りました。
+
+[こちらの公式のコードを参考にしております](https://api.flutter.dev/flutter/material/BottomNavigationBar-class.html)
 
 **スクリーンショット**
 <image src='./image/home.png' width='200' alt='home' />
