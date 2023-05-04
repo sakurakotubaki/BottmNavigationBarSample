@@ -4,6 +4,6 @@
 画面が切り替わり違うページが表示されるロジックを作りました。
 
 **スクリーンショット**
-<image src='./image/home.png' alt='home' />
-<image src='./image/bussine.png' alt='bussine' />
-<image src='./image/school.png' alt='school' />
+<image src='./image/home.png' width='200' alt='home' />
+<image src='./image/bussine.png' width='200' alt='bussine' />
+<image src='./image/school.png' width='200' alt='school' />
