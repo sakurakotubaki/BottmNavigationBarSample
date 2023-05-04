@@ -5,7 +5,6 @@
 
 [こちらの公式のコードを参考にしております](https://api.flutter.dev/flutter/material/BottomNavigationBar-class.html)
 
-**スクリーンショット**
 <image src='./image/home.png' width='200' alt='home' />
 <image src='./image/bussine.png' width='200' alt='bussine' />
 <image src='./image/school.png' width='200' alt='school' />
